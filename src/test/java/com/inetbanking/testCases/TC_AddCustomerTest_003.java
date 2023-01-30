@@ -30,11 +30,11 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		logger.info("providing customer details....");
 		
 		
-		addcust.custName("Pavan");
+		addcust.custName("Faris");
 		addcust.custgender("male");
-		addcust.custdob("10","15","1985");
+		addcust.custdob("10","15","1992");
 		Thread.sleep(5000);
-		addcust.custaddress("INDIA");
+		addcust.custaddress("Tukey");
 		addcust.custcity("HYD");
 		addcust.custstate("AP");
 		addcust.custpinno("5000074");
